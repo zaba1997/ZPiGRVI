@@ -8,6 +8,7 @@ public class Main {
         System.out.println("SSS");
         System.out.println("siema byku z plastiku");
         System.out.println("Mam małego z klockow lego");
+        System.out.println("Elowa ni");
 	// write your code here
     }
 }
