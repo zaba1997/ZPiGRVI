@@ -8,7 +8,7 @@ public class Main {
         System.out.println("SSS");
         System.out.println("ssssssss");
         System.out.println("ssss");
-        System.out.println("Elowa ni");
+        System.out.println("Elowhfdhdfhfda ni");
 	// write your code here
     }
 }
